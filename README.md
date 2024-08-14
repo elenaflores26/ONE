@@ -281,6 +281,7 @@ Este código CSS define el estilo y el diseño para una aplicación web de encri
     visibility: hidden;
   }
 }
+#
 
 # index.js
 código JavaScript define dos funciones principales, encriptar y desencriptar, que manipulan el contenido de un área de texto en una página web para encriptar o desencriptar el texto ingresado. Además, actualiza la interfaz de usuario  para reflejar el estado actual del texto procesado y muestra alertas utilizando SweetAlert.
